@@ -1,0 +1,8 @@
+name: JSON API
+version: 0.1.0
+description: Enables a json api response
+icon: ra
+author:
+  name: Nathan Edwards
+  email: npfedwards@gmail.com
+license: MIT
