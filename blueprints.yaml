@@ -1,8 +1,12 @@
 name: JSON API
-version: 0.1.0
+version: 0.1.1
 description: Enables a json api response
 icon: ra
 author:
   name: Nathan Edwards
   email: npfedwards@gmail.com
+  url: http://nathanpfedwards.com
+homepage: https://github.com/nathanpfedwards/jsonapi
+keywords: json, api, web service
+bugs: https://github.com/nathanpfedwards/jsonapi/issues
 license: MIT
