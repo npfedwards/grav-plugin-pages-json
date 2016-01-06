@@ -1,12 +1,12 @@
-name: JSON API
-version: 0.1.1
-description: Enables a json api response
+name: Grav JSON Pages API
+version: 0.1.2
+description: Enables a json api response of grav pages
 icon: ra
 author:
   name: Nathan Edwards
   email: npfedwards@gmail.com
   url: http://nathanpfedwards.com
-homepage: https://github.com/nathanpfedwards/jsonapi
+homepage: https://github.com/nathanpfedwards/grav-plugin-pages-json
 keywords: json, api, web service
-bugs: https://github.com/nathanpfedwards/jsonapi/issues
+bugs: https://github.com/nathanpfedwards/grav-plugin-pages-json/issues
 license: MIT
