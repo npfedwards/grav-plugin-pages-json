@@ -9,3 +9,9 @@
 
 1. [](#update)
     * Update name and version number
+
+# v0.1.3
+## 06/01/2016
+
+1. [](#update)
+    * Update to Readme

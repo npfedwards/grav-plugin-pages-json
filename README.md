@@ -1,6 +1,6 @@
-# Grav JSON Api Plugin
+# Grav Pages JSON Plugin
 
-The **jsonapi plugin** for [Grav](http://github.com/getgrav/grav) provides a very basic json api for accessing data from Grav.
+The **pages json plugin** for [Grav](http://github.com/getgrav/grav) provides a very basic json api for accessing pages from Grav.
 
 # Installation
 
@@ -8,7 +8,7 @@ Download and unpack a zip (or clone this repository) into the user/plugins direc
 
 # Configuration
 
-Simply copy the `user/plugins/jsonapi/jsonapi.yaml` into `user/config/plugins/jsonapi.yaml` and make your modifications.
+Simply copy the `user/plugins/grav-plugin-pages-json/grav-plugin-pages-json.yaml` into `user/config/grav-plugin-pages-json/grav-plugin-pages-json.yaml` and make your modifications.
 
 ```
 enabled: true
