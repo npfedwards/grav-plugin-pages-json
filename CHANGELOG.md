@@ -15,3 +15,9 @@
 
 1. [](#update)
     * Update to Readme
+
+# v0.1.4
+## 07/01/2016
+
+1. [](#fix)
+    * Fix classname

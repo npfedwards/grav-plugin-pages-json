@@ -3,7 +3,7 @@ namespace Grav\Plugin;
 
 use Grav\Common\Plugin;
 
-class JsonapiPlugin extends Plugin
+class pagesJsonPlugin extends Plugin
 {
     public static function getSubscribedEvents() {
         return [

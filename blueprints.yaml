@@ -1,5 +1,5 @@
 name: Grav JSON Pages API
-version: 0.1.2
+version: 0.1.4
 description: Enables a json api response of grav pages
 icon: ra
 author:
